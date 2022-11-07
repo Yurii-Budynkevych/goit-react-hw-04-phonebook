@@ -1,0 +1,10 @@
+.btn {
+    margin-left: 10px;
+
+    padding: 5px;
+    border: transparent;
+    border-radius: 30%;
+    background-color: tomato;
+
+    cursor: pointer;
+}
